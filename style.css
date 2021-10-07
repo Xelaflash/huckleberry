@@ -7,7 +7,7 @@ html {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-size: 18px;
+  font-size: 1.125rem;
 }
 
 body {
@@ -65,13 +65,8 @@ strong {
   margin-left: 24px;
 }
 
-#section-wrapper {
-  /* min-height: 100%; */
-}
-
 .card {
   background: var(--whiteGray);
-  /* max-width: 648px; */
   margin: 0 auto;
   border-bottom: 6px solid var(--mediumGray);
   padding: 24px;
