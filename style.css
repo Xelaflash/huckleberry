@@ -86,3 +86,20 @@ strong {
   margin-left: -40px;
   font-size: 1.2rem;
 }
+
+@media (max-width: 768px) {
+  header {
+    padding: 96px 0 48px 0;
+  }
+
+  .max-width-wrapper {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .card p {
+    display: none;
+  }
+}
