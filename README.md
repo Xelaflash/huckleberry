@@ -1,3 +1,6 @@
+# Repo part of joshwcomeau Css for Js Dev course
+It's the first workshop to work with layout and positionning
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.
